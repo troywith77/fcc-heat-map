@@ -1,0 +1,16 @@
+{
+  "name": "fcc-heat-map",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:troywith77/fcc-heat-map.git",
+  "author": "troywith77 <ruitang307@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "d3": "^5.7.0",
+    "parcel-bundler": "^1.10.3"
+  },
+  "scripts": {
+    "start": "parcel index.html --no-hmr"
+  }
+}
