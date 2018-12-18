@@ -1,0 +1,13 @@
+html,
+body {
+  margin: 0;
+}
+
+#tooltip {
+  position: absolute;
+  min-width: 200px;
+  min-height: 120px;
+  background: #ddd;
+  border-radius: 5px;
+}
+
